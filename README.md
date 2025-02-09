@@ -1,5 +1,9 @@
-## Hi there 👋
+## About me 👋
 
+### 🌱 Hi I'm Justyna and I’m currently learning Python with 100 Day Of Code Challenge. 
+### I have few years experience in Data Engineering, mostly SQL Server, SSIS and PBI. 
+---
+Nice to meet you! :)
 <!--
 **JustynaCodes/JustynaCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
